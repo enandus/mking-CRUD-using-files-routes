@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 { 
     "presets": ["es2015", "stage-2"] 
+=======
+{ 
+    "presets": ["es2015", "stage-2"] 
+>>>>>>> 0d81f221c387b24d8ca97c45b3c1df29d17264d7
 }
